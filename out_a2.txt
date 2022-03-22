@@ -1,0 +1,13 @@
+|    round num      |  amount of differing bits |
+|                   |                           |
+|number of rounds 0 | 1 differing bits          |
+|number of rounds 1 | 8 differing bits          |
+|number of rounds 2 | 6 differing bits          |
+|number of rounds 3 | 4 differing bits          |
+|number of rounds 4 | 5 differing bits          |
+|number of rounds 5 | 5 differing bits          |
+|number of rounds 6 | 4 differing bits          |
+|number of rounds 7 | 5 differing bits          |
+|number of rounds 8 | 2 differing bits          |
+|number of rounds 9 | 2 differing bits          |
+|number of rounds 10 | 3 differing bits          |
