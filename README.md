@@ -1,6 +1,8 @@
 # LightAES-OFB-CFB
 An implementation of the light AES algorithm (AES without the mix column operation) using 128 bits key, and in OFB and CFB operational modes.
 
+The implementation is split into 2 main parts, for the light AES itself and the operational modes.
+
 Part A
 In file main.py, we use the function encry p tion( data, if decrypt, num rounds) to implement
 the light AES 128 encryption and decryption operations, this function uses the (SubBytes(),
